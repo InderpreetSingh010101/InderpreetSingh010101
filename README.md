@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/InderpreetSingh010101/gif/raw/main/Project%20Name%20(1).gif" style="width:95%;" alt="gif"></p>
+
 <h1 align="center">Hi 👋, I'm Inderpreet Singh</h1>
 <h3 align="center">Problem buster & Web Developer</h3>
 
